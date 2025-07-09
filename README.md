@@ -13,3 +13,8 @@ If you run into any problems with a Haptique product, please let us know. Descri
 Have an idea to improve Haptique? We’d love to hear your suggestions. Share as much information as possible about your feature idea.
 
 [Request a Feature](https://github.com/cantatacsfr/feature-bug_report_n_tracker/issues/new?template=feature_request.md)
+
+---
+
+## Request Tracker
+[Request a Tracker](https://github.com/users/cantatacsfr/projects/2)
