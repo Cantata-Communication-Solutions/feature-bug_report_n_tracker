@@ -1,0 +1,45 @@
+name: 🐞 Report a Bug
+description: Found something not working? Let us know!
+title: "[Bug]: "
+labels: [bug]
+projects: ["your-org/bug-report-project"] # Replace with your actual org/project
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please help us fix the issue by filling out this short form. You don’t need technical details — just what you see.
+
+  - type: input
+    id: summary
+    attributes:
+      label: What went wrong?
+      description: A short description of the problem
+      placeholder: The app froze when I tapped on...
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-did-you-do
+    attributes:
+      label: What were you trying to do?
+      description: What did you expect to happen?
+      placeholder: I was trying to turn on my TV using RS90...
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened instead?
+      description: Tell us what actually happened.
+      placeholder: It didn’t turn on, and I saw an error message...
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Add any other details (photos, model number, etc.)
+      placeholder: Screenshot, device name, location...
+      optional: true
