@@ -42,4 +42,3 @@ body:
       label: Anything else?
       description: Add any other details (photos, model number, etc.)
       placeholder: Screenshot, device name, location...
-      optional: true
