@@ -4,7 +4,7 @@
 
 If you run into any problems with a Haptique product, please let us know. Describe what happened, how to reproduce the issue, and include any relevant details or screenshots.
 
-[Report a Bug](https://github.com/cantatacsfr/feature-bug_report_n_tracker/issues/new?template=bug_report.md)
+[Report a Bug](https://github.com/cantatacsfr/feature-bug_report_n_tracker/issues/new?template=.github/ISSUE_TEMPLATE/simple_bug_report.yml)
 
 ---
 
